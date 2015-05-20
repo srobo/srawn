@@ -10,12 +10,12 @@ a {
 
 a:hover,
 a:active {
-  text-decoration: underline;
+    text-decoration: underline;
 }
 
 hr {
-  height: 2px;
-  margin: 15px 0;
-  background: #DDD;
-  border: 0;
+    height: 2px;
+    margin: 15px 0;
+    background: #DDD;
+    border: 0;
 }
