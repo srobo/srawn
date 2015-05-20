@@ -5,8 +5,8 @@ TARGETS = $(SOURCES:.md=.html)
 
 all: $(SOURCES) $(TARGETS)
 
-%.html: %.md
-	pandoc $< -s -o $@
+%.html: %.md styles.css
+	pandoc $< -s -o $@ -c styles.css
 
 clean:
 	rm -f $(TARGETS)
