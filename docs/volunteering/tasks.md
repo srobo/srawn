@@ -48,6 +48,18 @@ please do create a task first as a record that you're doing it. There's no need
 to do this for trivial things, but for anything else having a task provides
 visibility into what's being done and who's doing it.
 
+## Labels
+
+The tasks repository has many [labels](https://github.com/srobo/tasks/labels) which are used to group tasks together, and assign them extra metadata.
+
+Labels in the repository are split into a few categories, denoted by a prefix character:
+
+- `A`: Area - The area of Student Robotics operations the task is relevant to.
+- `I`: Importance - How critical the task is. Tasks may only have 1 `I` label at any given time
+- `S`: State - The current state of the task, which is generally timely.
+
+There are a few labels which don't fit into a category.
+
 If you're looking for something to do, you may be able to help out with tasks
 which are labelled as [help wanted][help-wanted] -- these are generally tasks
 which need a bit more input or have been highlighted as something that can be
