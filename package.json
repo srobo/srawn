@@ -1,0 +1,10 @@
+{
+  "name": "srawn",
+  "version": "1.0.0",
+  "repository": "https://github.com/srobo/srawn.git",
+  "author": "Student Robotics <info@studentrobotics.org>",
+  "private": true,
+  "dependencies": {
+    "mjml": "^4.7.1"
+  }
+}

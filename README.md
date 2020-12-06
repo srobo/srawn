@@ -10,3 +10,17 @@ This repository contains an archive of all internal newsletters that have been s
 
 The newsletters are grouped by the Student Robotics competition year at which they were sent out.
 
+## Rendering the newsletters
+
+Requires: yarn, python 3,
+
+Install dependencies
+
+```
+yarn install
+pip install -r requirements.txt
+```
+
+Build all: `./scripts/render-all.sh`
+
+Lint filenames: `./scripts/lint-filenames.py`

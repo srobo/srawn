@@ -1,0 +1,7 @@
+<h1>SRAWN {{year}} Archives</h1>
+
+<ul>
+{% for issue, title in issues %}
+  <li><a href="{{ issue }}.html">{{ title }}</a></li>
+{% endfor %}
+</ul>
