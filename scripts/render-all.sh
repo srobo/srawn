@@ -15,9 +15,9 @@ do
     do
         stem=${issue%.md}
         echo "  "$stem
-        ./venv/bin/python ./scripts/render-mjml.py $issue > out/mjml/$stem.mjml
+        ./venv/bin/python3 ./scripts/render-mjml.py $issue > out/mjml/$stem.mjml
         ./node_modules/.bin/mjml out/mjml/$stem.mjml -o out/html/$stem.html
     done
 done
 
-./venv/bin/python ./scripts/render-indices.py
+./venv/bin/python3 ./scripts/render-indices.py

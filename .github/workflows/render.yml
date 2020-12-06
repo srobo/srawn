@@ -1,0 +1,34 @@
+name: Render templates
+
+on:
+  push:
+    branches:
+      - "*"
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout sources
+        uses: actions/checkout@v2
+
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.8
+
+      - name: Install dependencies
+        run: bash ./scripts/setup.sh
+
+      - uses: borales/actions-yarn@v2.0.0
+        with:
+          cmd: install # will run `yarn install` command
+
+      - name: Build newsletters
+        run: bash ./scripts/render-all.sh
+
+      - uses: actions/upload-artifact@v2
+        with:
+          name: newsletters
+          path: out/html
