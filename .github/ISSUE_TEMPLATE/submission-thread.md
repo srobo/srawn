@@ -6,12 +6,11 @@ labels: srawn-submit
 assignees: ''
 
 ---
-
 ```
 sryear: SR2021
 issue: XX
-submission-deadline: "202X-XX-XXT23:59:59Z"
-publish-estimate: "202X-XX-XXT12:00:00Z"
+submission-date: 202X-XX-XXT00:00:00Z
+publication-date: 202X-XX-XXT12:00:00Z
 ```
 ## SR(A)WN Submission Thread
 
