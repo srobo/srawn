@@ -32,6 +32,7 @@ Please read the submission guidelines before submitting content to SR(A)WN.
 
 - Be inclusive! This is a newsletter for all volunteers, so please try not to assume knowledge (technical, or of specific activities within SR).
 - Please follow the [code of conduct](https://opsmanual.studentrobotics.org/about-the-charity/code-of-conduct) when writing and submitting content.
+- SR(A)WN is a public newsletter. Please don't submit any sensitive or inappropriate content.
 - If additional help is required for something, you can **embolden** it to indicate this to volunteers.
 - Please use [Commonmark Markdown](https://commonmark.org/help/) where possible when writing content. Some formatting may be stripped or changed during editing, or by the newsletter template.
 - Please use alt text when submitting images to the newsletter, as some mail clients may not be able to read HTML.
