@@ -1,0 +1,41 @@
+name: Render templates
+
+on:
+  push:
+    branches:
+      - "master"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout sources
+        uses: actions/checkout@v2
+
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.8
+
+      - name: Install dependencies
+        run: bash ./scripts/setup.sh
+
+      - uses: borales/actions-yarn@v2.0.0
+        with:
+          cmd: install # will run `yarn install` command
+
+      - name: Build newsletters
+        run: bash ./scripts/render-all.sh
+
+      - uses: actions/upload-artifact@v2
+        with:
+          name: newsletters
+          path: out/html
+        
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@3.7.1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: gh-pages # The branch the action should deploy to.
+          FOLDER: out/html # The folder the action should deploy.
+          CLEAN: true # Automatically remove deleted files from the deploy branch
