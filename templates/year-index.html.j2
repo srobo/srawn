@@ -1,7 +1,32 @@
-<h1>SRAWN {{year}} Archives</h1>
-
-<ul>
-{% for issue, title in issues %}
-  <li><a href="{{ issue }}.html">{{ title }}</a></li>
-{% endfor %}
-</ul>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{year}} SR(A)WN Archive</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://www.studentrobotics.org/style/css/main.css">
+    <link rel="shortcut icon" href="https://www.studentrobotics.org/style/images/favicon.ico">
+  </head>
+  <body class="d-flex flex-column min-vh-100">
+    <header>
+      <div class="fixed-width">
+        <h1>
+          <a class="anchor" id="top"></a><a href="#top">{{year}} SR(A)WN Archive</a>
+        </h1>
+      </div>
+    </header>
+    <section>
+      <div class="fixed-width">
+        <a class="anchor" id="top"></a><a href="https://studentrobotics.org/srawn">Back to Archive Index</a>
+        <h2>Issues</h2>
+        <ul>
+          {% for issue, title in issues %}
+            <li><a href="{{ issue }}.html">{{ title }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+    </section>
+  </body>
+</html>
