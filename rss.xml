@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>SR(A)WN</title><link>https://studentrobotics.org/srawn/</link><description>Student Robotics (Almost) Weekly Newsletter</description><lastBuildDate>Sun, 20 Dec 2020 00:00:00 -0000</lastBuildDate><item><title>SR2015 Issue 03</title><link>https://studentrobotics.org/srawn/SR2015/2014-06-23-srawn-03.html</link><description>&lt;h1&gt;SR(A)WN 2015 — 3&lt;/h1&gt;
+<rss version="2.0"><channel><title>SR(A)WN</title><link>https://studentrobotics.org/srawn/</link><description>Student Robotics (Almost) Weekly Newsletter</description><lastBuildDate>Fri, 15 Jan 2021 00:00:00 -0000</lastBuildDate><item><title>SR2015 Issue 03</title><link>https://studentrobotics.org/srawn/SR2015/2014-06-23-srawn-03.html</link><description>&lt;h1&gt;SR(A)WN 2015 — 3&lt;/h1&gt;
 &lt;p&gt;This is the third issue of the Student Robotics (Almost) Weekly Newsletter, a (roughly) fortnightly newsletter which summarises the goings-on across SR. This is a bit of an experiment, so if you have feedback or think we've missed something, feel free to reply to this thread. &lt;strong&gt;Emboldened items&lt;/strong&gt; are ones which we believe could do with extra hands. An absence of emboldening does not necessarily mean that everything is done.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Since exams are now over, Peter has resumed his &lt;a href="https://groups.google.com/d/topic/srobo/IE-xKIQgWOY/discussion"&gt;&amp;quot;Learning by doings&amp;quot;&lt;/a&gt; idea, using Google Hangouts to perform tasks along with other blueshirts. &lt;strong&gt;Ideas for topics of these doings would be welcome&lt;/strong&gt;. [0]&lt;/li&gt;
@@ -605,4 +605,36 @@
 &lt;li&gt;We now have developed an MVP replacement for herdsman called &lt;a href="https://github.com/srobo/astoria"&gt;Astoria&lt;/a&gt;, which uses asynchronous Python and JSON over MQTT. This software primarily handles detecting and loading student code from USB drives. &lt;a href="https://srobo.github.io/astoria"&gt;Documentation&lt;/a&gt; is now available.&lt;/li&gt;
 &lt;li&gt;We have also begun development on a new &lt;a href="https://github.com/srobo/robot-base"&gt;Debian-based system image&lt;/a&gt;, which we aim to build for both ODROID and Raspberry Pi boards.&lt;/li&gt;
 &lt;/ul&gt;
-</description><pubDate>Sun, 20 Dec 2020 00:00:00 -0000</pubDate><guid isPermaLink="false">https://studentrobotics.org/srawn/SR2021/2020-12-20-srawn-01.html</guid></item></channel></rss>
+</description><pubDate>Sun, 20 Dec 2020 00:00:00 -0000</pubDate><guid isPermaLink="false">https://studentrobotics.org/srawn/SR2021/2020-12-20-srawn-01.html</guid></item><item><title>SR2021 Issue 02</title><link>https://studentrobotics.org/srawn/SR2021/2021-01-15-srawn-02.html</link><description>&lt;p&gt;The Student Robotics (Almost) Weekly Newsletter is a (roughly) fortnightly newsletter which summarises the goings‐on across Student Robotics. &lt;strong&gt;Emboldened&lt;/strong&gt; items are ones for which additional help has been requested.&lt;/p&gt;
+&lt;p&gt;Keep up with SR(A)WN:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Join the &lt;code&gt;#srawn&lt;/code&gt; channel on &lt;a href="https://app.slack.com/client/T0EEPF1LH/C01GBT8NMSN"&gt;Slack&lt;/a&gt; &lt;em&gt;recommended&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Join the &lt;code&gt;srawn&lt;/code&gt; mailing list on &lt;a href="https://groups.google.com/g/srawn"&gt;Google Groups&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Read historical issues on the &lt;a href="https://studentrobotics.org/srawn"&gt;SR(A)WN Archive&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;NEW&lt;/strong&gt; Subscribe to the &lt;a href="https://studentrobotics.org/srawn/rss.xml"&gt;SR(A)WN RSS Feed&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Headlines&lt;/h1&gt;
+&lt;h3&gt;League Matches&lt;/h3&gt;
+&lt;p&gt;The first round of league sessions are this coming weekend! For more information, please see the &lt;a href="https://studentrobotics.org/events/sr2021/league-1/"&gt;event on the website&lt;/a&gt;. Follow along and help out in &lt;a href="https://app.slack.com/client/T0EEPF1LH/CDCJ93YMC/thread/C01CU87V94P-1610563409.119500"&gt;&lt;code&gt;#events&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Module 2 of the game will be announced after the League Matches this weekend.&lt;/p&gt;
+&lt;h3&gt;Friendly Matches&lt;/h3&gt;
+&lt;p&gt;We ran some friendly matches for teams as a low-stress way for them to test their robots against other teams', and socialise with other competitors / volunteers. They went well!&lt;/p&gt;
+&lt;h2&gt;Competition&lt;/h2&gt;
+&lt;h3&gt;Game Modules&lt;/h3&gt;
+&lt;p&gt;As this competition year doesn’t feature a physical competition event, the structure of the competition has changed. The league matches will take place on four weekends throughout the year. After each league session the game will gain additional modules that will present new and different challenges to the competitors. &lt;strong&gt;If you have any cool ideas for modules please share them in &lt;code&gt;#game&lt;/code&gt; on Slack or come along to a Competition Meeting&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3&gt;Module 3 Ideas&lt;/h3&gt;
+&lt;p&gt;If anyone has ideas for the next game module (module 3), submissions (in &lt;a href="https://app.slack.com/client/T0EEPF1LH/CCVCJ0CR5/thread/C01GBT8NMSN-1610729227.000300"&gt;&lt;code&gt;#game&lt;/code&gt;&lt;/a&gt; in Slack) will be welcome.&lt;/p&gt;
+&lt;h3&gt;Competition Meetings&lt;/h3&gt;
+&lt;p&gt;We have weekly Competition meetings on Thursdays at 8:30, these are open to all so feel free to drop in without notice or on an ad-hoc basis. These meetings, and any others, can be found on the &lt;a href="https://studentrobotics.org/runbook/volunteering/calendars/"&gt;volunteer calendar&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;Discord&lt;/h3&gt;
+&lt;p&gt;We're experimenting with using Discord this year as opposed to the forums. If you'd like to join and help answer questions or just join in the banter with the teams, the sign up link is &lt;a href="https://studentrobotics.slack.com/archives/C0EEJ0ASY/p1607552491072100"&gt;pinned&lt;/a&gt; in &lt;code&gt;#general&lt;/code&gt; on Slack.&lt;/p&gt;
+&lt;h2&gt;Kit&lt;/h2&gt;
+&lt;h3&gt;Committee&lt;/h3&gt;
+&lt;p&gt;The Kit Committee is planning to hold monthly informal sessions to onboard new volunteers and welcome them to the Student Robotics community. More details will be available soon.&lt;/p&gt;
+&lt;h3&gt;Brain Updates&lt;/h3&gt;
+&lt;p&gt;The Brain Team is re-developing SR kit software for the SR2022 cycle.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Development continues with good, albeit non-specific progress being made&lt;/li&gt;
+&lt;li&gt;We are looking for help testing the new vision system, any expertise on computer vision mathematics would be greatly appreciated.&lt;/li&gt;
+&lt;/ul&gt;
+</description><pubDate>Fri, 15 Jan 2021 00:00:00 -0000</pubDate><guid isPermaLink="false">https://studentrobotics.org/srawn/SR2021/2021-01-15-srawn-02.html</guid></item></channel></rss>
