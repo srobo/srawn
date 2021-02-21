@@ -59,6 +59,10 @@ _SR_:
 
 : an abbreviation for 'Student Robotics'
 
+[_SR(A)WN_](./srawn.md):
+
+: Student Robotics (Almost) Weekly Newsletter; a semi-regular newsletter written by volunteers for volunteers.
+
 [_SRComp_](https://github.com/PeterJCLaw/srcomp/wiki):
 
 : a software stack which we use to run competition events
