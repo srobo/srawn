@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>SR(A)WN</title><link>https://studentrobotics.org/srawn/</link><description>Student Robotics (Almost) Weekly Newsletter</description><lastBuildDate>Sun, 28 Feb 2021 00:00:00 -0000</lastBuildDate><item><title>SR2015 Issue 03</title><link>https://studentrobotics.org/srawn/SR2015/2014-06-23-srawn-03.html</link><description>&lt;h1&gt;SR(A)WN 2015 — 3&lt;/h1&gt;
+<rss version="2.0"><channel><title>SR(A)WN</title><link>https://studentrobotics.org/srawn/</link><description>Student Robotics (Almost) Weekly Newsletter</description><lastBuildDate>Sat, 27 Mar 2021 00:00:00 -0000</lastBuildDate><item><title>SR2015 Issue 03</title><link>https://studentrobotics.org/srawn/SR2015/2014-06-23-srawn-03.html</link><description>&lt;h1&gt;SR(A)WN 2015 — 3&lt;/h1&gt;
 &lt;p&gt;This is the third issue of the Student Robotics (Almost) Weekly Newsletter, a (roughly) fortnightly newsletter which summarises the goings-on across SR. This is a bit of an experiment, so if you have feedback or think we've missed something, feel free to reply to this thread. &lt;strong&gt;Emboldened items&lt;/strong&gt; are ones which we believe could do with extra hands. An absence of emboldening does not necessarily mean that everything is done.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Since exams are now over, Peter has resumed his &lt;a href="https://groups.google.com/d/topic/srobo/IE-xKIQgWOY/discussion"&gt;&amp;quot;Learning by doings&amp;quot;&lt;/a&gt; idea, using Google Hangouts to perform tasks along with other blueshirts. &lt;strong&gt;Ideas for topics of these doings would be welcome&lt;/strong&gt;. [0]&lt;/li&gt;
@@ -660,4 +660,26 @@
 &lt;li&gt;Read historical issues on the &lt;a href="https://studentrobotics.org/srawn"&gt;SR(A)WN Archive&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Subscribe to the &lt;a href="https://studentrobotics.org/srawn/rss.xml"&gt;SR(A)WN RSS Feed&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description><pubDate>Sun, 28 Feb 2021 00:00:00 -0000</pubDate><guid isPermaLink="false">https://studentrobotics.org/srawn/SR2021/2021-02-28-srawn-03.html</guid></item></channel></rss>
+</description><pubDate>Sun, 28 Feb 2021 00:00:00 -0000</pubDate><guid isPermaLink="false">https://studentrobotics.org/srawn/SR2021/2021-02-28-srawn-03.html</guid></item><item><title>SR2021 Issue 04</title><link>https://studentrobotics.org/srawn/SR2021/2021-03-27-srawn-04.html</link><description>&lt;p&gt;The Student Robotics (Almost) Weekly Newsletter is a (roughly) fortnightly newsletter which summarises the goings‐on across Student Robotics. &lt;strong&gt;Emboldened&lt;/strong&gt; items are ones for which additional help has been requested.&lt;/p&gt;
+&lt;h1&gt;Headlines&lt;/h1&gt;
+&lt;h3&gt;Module 4 Announced to Competitors&lt;/h3&gt;
+&lt;p&gt;Following &lt;a href="https://studentrobotics.org/news/2021-03-20-sr2021-third-league-sessions/"&gt;league session 3&lt;/a&gt; which was held on 20th March, the &lt;a href="https://studentrobotics.org/docs/resources/2021/rulebook.html"&gt;fourth and final game module (Module 4) was announced&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This substantially changes the arena layout and adds new kinds of territories worth more game points. The towers also received an upgrade meaning they no longer become locked out, but if a robot attempts to claim a territory they already own then it will become unclaimed.&lt;/p&gt;
+&lt;p&gt;If you're interested in helping out with the final module and knockouts, come along to a competition meeting or get in touch.&lt;/p&gt;
+&lt;h3&gt;Social&lt;/h3&gt;
+&lt;p&gt;We're planning on running some social events during early April. If you want to come along, just fill out the &lt;a href="studentrobotics.slack.com/archives/CF94T25GU/p1616619850002200"&gt;doodle poll in Slack&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;Volunteer Mini-Competition&lt;/h3&gt;
+&lt;p&gt;Now that we have the final module of the simulator developed we are wanting to try and do some smoke testing. If anyone is interested in putting together a robot and participating in a mini volunteer competition please reply to the &lt;a href="https://studentrobotics.slack.com/archives/C0EEJ0ASY/p1616619905004500"&gt;Slack thread&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Competition&lt;/h2&gt;
+&lt;h3&gt;Friendlies&lt;/h3&gt;
+&lt;p&gt;We ran some friendly matches on Saturday 13th, they went well.&lt;/p&gt;
+&lt;p&gt;We're planning on running some more friendly matches for teams on the 3rd and 17th of April. These are a great chance to see how teams are fairing in the competition. They're very relaxed, and we mostly comment on how teams are performing in the matches. If you're interested in coming along or helping them happen, come along to a competition meeting, or join the calls when they're posted.&lt;/p&gt;
+&lt;h2&gt;Subscribe to SR(A)WN&lt;/h2&gt;
+&lt;p&gt;You can keep up with SR(A)WN online:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Join the &lt;code&gt;#srawn&lt;/code&gt; channel on &lt;a href="https://app.slack.com/client/T0EEPF1LH/C01GBT8NMSN"&gt;Slack&lt;/a&gt; &lt;em&gt;recommended&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Join the &lt;code&gt;srawn&lt;/code&gt; mailing list on &lt;a href="https://groups.google.com/g/srawn"&gt;Google Groups&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Read historical issues on the &lt;a href="https://studentrobotics.org/srawn"&gt;SR(A)WN Archive&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Subscribe to the &lt;a href="https://studentrobotics.org/srawn/rss.xml"&gt;SR(A)WN RSS Feed&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description><pubDate>Sat, 27 Mar 2021 00:00:00 -0000</pubDate><guid isPermaLink="false">https://studentrobotics.org/srawn/SR2021/2021-03-27-srawn-04.html</guid></item></channel></rss>
