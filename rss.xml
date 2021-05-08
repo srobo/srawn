@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>SR(A)WN</title><link>https://studentrobotics.org/srawn/</link><description>Student Robotics (Almost) Weekly Newsletter</description><lastBuildDate>Sat, 27 Mar 2021 00:00:00 -0000</lastBuildDate><item><title>SR2015 Issue 03</title><link>https://studentrobotics.org/srawn/SR2015/2014-06-23-srawn-03.html</link><description>&lt;h1&gt;SR(A)WN 2015 — 3&lt;/h1&gt;
+<rss version="2.0"><channel><title>SR(A)WN</title><link>https://studentrobotics.org/srawn/</link><description>Student Robotics (Almost) Weekly Newsletter</description><lastBuildDate>Sat, 08 May 2021 00:00:00 -0000</lastBuildDate><item><title>SR2015 Issue 03</title><link>https://studentrobotics.org/srawn/SR2015/2014-06-23-srawn-03.html</link><description>&lt;h1&gt;SR(A)WN 2015 — 3&lt;/h1&gt;
 &lt;p&gt;This is the third issue of the Student Robotics (Almost) Weekly Newsletter, a (roughly) fortnightly newsletter which summarises the goings-on across SR. This is a bit of an experiment, so if you have feedback or think we've missed something, feel free to reply to this thread. &lt;strong&gt;Emboldened items&lt;/strong&gt; are ones which we believe could do with extra hands. An absence of emboldening does not necessarily mean that everything is done.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Since exams are now over, Peter has resumed his &lt;a href="https://groups.google.com/d/topic/srobo/IE-xKIQgWOY/discussion"&gt;&amp;quot;Learning by doings&amp;quot;&lt;/a&gt; idea, using Google Hangouts to perform tasks along with other blueshirts. &lt;strong&gt;Ideas for topics of these doings would be welcome&lt;/strong&gt;. [0]&lt;/li&gt;
@@ -682,4 +682,93 @@
 &lt;li&gt;Read historical issues on the &lt;a href="https://studentrobotics.org/srawn"&gt;SR(A)WN Archive&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Subscribe to the &lt;a href="https://studentrobotics.org/srawn/rss.xml"&gt;SR(A)WN RSS Feed&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description><pubDate>Sat, 27 Mar 2021 00:00:00 -0000</pubDate><guid isPermaLink="false">https://studentrobotics.org/srawn/SR2021/2021-03-27-srawn-04.html</guid></item></channel></rss>
+</description><pubDate>Sat, 27 Mar 2021 00:00:00 -0000</pubDate><guid isPermaLink="false">https://studentrobotics.org/srawn/SR2021/2021-03-27-srawn-04.html</guid></item><item><title>SR2021 Issue 05</title><link>https://studentrobotics.org/srawn/SR2021/2021-05-08-srawn-05.html</link><description>&lt;p&gt;The Student Robotics (Almost) Weekly Newsletter is a (roughly) fortnightly newsletter which summarises the goings‐on across Student Robotics. &lt;strong&gt;Emboldened&lt;/strong&gt; items are ones for which additional help has been requested.&lt;/p&gt;
+&lt;h1&gt;Headlines&lt;/h1&gt;
+&lt;h3&gt;St Paul’s College storm to victory&lt;/h3&gt;
+&lt;p&gt;Student Robotics 2021 Virtual Competition came to an exciting conclusion last weekend,
+with the rookie team from St Paul’s College, Adelaide, storming to victory in a
+close match against Hills Road Sixth Form College third team.&lt;/p&gt;
+&lt;h2&gt;Competition&lt;/h2&gt;
+&lt;h3&gt;Leagues&lt;/h3&gt;
+&lt;p&gt;Our competition event this year spread the league stage over four weekends
+throughout the year. After each league session the game gained additional
+modules that presented new and different challenges to the competitors. In
+addition to the formal league sessions, there were also some more casual
+friendlies sessions which allowed the teams to experiment with different
+strategies and test their code against other teams’ in a more relaxed
+environment.&lt;/p&gt;
+&lt;p&gt;While this year’s competition presented a different challenge to the competitors
+that previous years’, the core challenge to create an autonomous robot remained
+the same.&lt;/p&gt;
+&lt;p&gt;During the league sessions there were some teams which showed strong early
+performances. Initially the teams from Hills Road Sixth Form College looked to
+be the teams to beat. The later leagues however were the battleground of a
+different collection of teams, with KEGS Chelmsford (KEG), Gymnasium Markt
+Indersdorf (MAI) as well as rookie teams St Paul’s College (SPA) and We Robot
+(WER) in particular performing the best in the fourth and most complex of the
+leauge sessions.&lt;/p&gt;
+&lt;h3&gt;Knockouts&lt;/h3&gt;
+&lt;p&gt;Last weekend the competition culminated in a series of single-elimination
+knockout matches, allowing the teams robots to demonstrate the peak of their
+capabilities. The initial pairings of the knockouts were seeded based on
+performance in the leagues, however this by no means guaranteed a smooth path to
+the final.&lt;/p&gt;
+&lt;p&gt;Many teams had ramped up their improvements towards the end of the competition,
+allowing for some incredibly well contested matches and some surprising
+outcomes. A particular example of this was team MCK from The Malay College Kuala
+Kangsar who had finished the leagues near the bottom of the league table and
+thus faced a challenging set of matches. Nevertheless they managed to knock out
+the top seed, team MAI from Gymnasium Markt Indersdorf and went on to secure a
+place on the podium.&lt;/p&gt;
+&lt;h3&gt;Finals&lt;/h3&gt;
+&lt;p&gt;The final match saw St Paul’s College (SPA) and Hills Road Team 3 (HRS3) battle
+for the top spot. Both teams having shown their incredible abilities throughout
+the competition. Whilst the robots started off with very different tactics, they
+were both accruing points very quickly. Due to a large number of link breakages,
+which the robots actively detected and reacted to, the points and leader
+switched massively throughout the match. When the clock struck zero it was 36
+points to 8 in favour of St Paul’s, giving them the title.&lt;/p&gt;
+&lt;h3&gt;Results&lt;/h3&gt;
+&lt;p&gt;| Prize           | Team                                       |
+|-----------------|--------------------------------------------|
+| 1st Place       | SPA: St Paul’s College, Adelaide           |
+| 2nd Place       | HRS3: Hills Road Sixth Form College Team 3 |
+| 3rd Place       | MCK: The Malay College Kuala Kangsar       |
+| Committee Award | HRS2: Hills Road Sixth Form College Team 2 |
+| Rookie Award    | WER: We Robot                              |
+| Online Presence | YSH: Yayasan Sultan Haji Hassanal Bolkiah  |&lt;/p&gt;
+&lt;p&gt;With a consistently strong performance, scoring well in the first league and
+really stepping up their game in the final league session French team We Robot
+ended the league stage with the highest number of game points of any team. While
+this didn’t place them at the top of the league leaderboard, they were the
+highest placed rookie team and thus earned the Rookie Award.&lt;/p&gt;
+&lt;p&gt;The Committee Award is given for extraordinary ingenuity or simple elegance in
+the design of their solution. Team HRS2 from Hills Road Sixth Form College
+earned this prize in recognition of the high quality of the code that they wrote
+for their robot. In particular it was clean and easy to read, neatly organised
+in separate files, with good comments. Their code made good use of a state
+machine as part of its main control loop and PID control for their movement.&lt;/p&gt;
+&lt;p&gt;We also encourage teams to share their progress towards their robots throughout
+the year. Team YSH from Yayasan Sultan Haji Hassanal Bolkiah earned the Online
+Presence Award for their &lt;a href="https://www.instagram.com/team_ysh/"&gt;Instagram posting&lt;/a&gt; throughout the year
+covering their approach to the competition, strategy and reviews of their
+performance in the leagues.&lt;/p&gt;
+&lt;h3&gt;Rewatch the streams!&lt;/h3&gt;
+&lt;p&gt;If you’d like to relive the highs and lows of the competition livestreams, the
+videos remain available on YouTube, as well as a cut-down video of the final:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=cAvk-nfTUis"&gt;League Session 1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=RwW5Oz30gbE"&gt;League Session 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=MpuhtW4mCKM"&gt;League Session 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=E9gF-GZbf5M"&gt;League Session 4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=gxJM6ernMqo"&gt;Knockouts and Final&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Subscribe to SR(A)WN&lt;/h2&gt;
+&lt;p&gt;You can keep up with SR(A)WN online:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Join the &lt;code&gt;#srawn&lt;/code&gt; channel on &lt;a href="https://app.slack.com/client/T0EEPF1LH/C01GBT8NMSN"&gt;Slack&lt;/a&gt; &lt;em&gt;recommended&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Join the &lt;code&gt;srawn&lt;/code&gt; mailing list on &lt;a href="https://groups.google.com/g/srawn"&gt;Google Groups&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Read historical issues on the &lt;a href="https://studentrobotics.org/srawn"&gt;SR(A)WN Archive&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Subscribe to the &lt;a href="https://studentrobotics.org/srawn/rss.xml"&gt;SR(A)WN RSS Feed&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description><pubDate>Sat, 08 May 2021 00:00:00 -0000</pubDate><guid isPermaLink="false">https://studentrobotics.org/srawn/SR2021/2021-05-08-srawn-05.html</guid></item></channel></rss>
