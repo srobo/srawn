@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>SR(A)WN</title><link>https://studentrobotics.org/srawn/</link><description>Student Robotics (Almost) Weekly Newsletter</description><lastBuildDate>Sat, 05 Jun 2021 00:00:00 -0000</lastBuildDate><item><title>SR2015 Issue 03</title><link>https://studentrobotics.org/srawn/SR2015/2014-06-23-srawn-03.html</link><description>&lt;h1&gt;SR(A)WN 2015 — 3&lt;/h1&gt;
+<rss version="2.0"><channel><title>SR(A)WN</title><link>https://studentrobotics.org/srawn/</link><description>Student Robotics (Almost) Weekly Newsletter</description><lastBuildDate>Sun, 10 Oct 2021 00:00:00 -0000</lastBuildDate><item><title>SR2015 Issue 03</title><link>https://studentrobotics.org/srawn/SR2015/2014-06-23-srawn-03.html</link><description>&lt;h1&gt;SR(A)WN 2015 — 3&lt;/h1&gt;
 &lt;p&gt;This is the third issue of the Student Robotics (Almost) Weekly Newsletter, a (roughly) fortnightly newsletter which summarises the goings-on across SR. This is a bit of an experiment, so if you have feedback or think we've missed something, feel free to reply to this thread. &lt;strong&gt;Emboldened items&lt;/strong&gt; are ones which we believe could do with extra hands. An absence of emboldening does not necessarily mean that everything is done.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Since exams are now over, Peter has resumed his &lt;a href="https://groups.google.com/d/topic/srobo/IE-xKIQgWOY/discussion"&gt;&amp;quot;Learning by doings&amp;quot;&lt;/a&gt; idea, using Google Hangouts to perform tasks along with other blueshirts. &lt;strong&gt;Ideas for topics of these doings would be welcome&lt;/strong&gt;. [0]&lt;/li&gt;
@@ -806,4 +806,25 @@ videos remain available on YouTube, as well as a cut-down video of the final:&lt
 &lt;li&gt;Read historical issues on the &lt;a href="https://studentrobotics.org/srawn"&gt;SR(A)WN Archive&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Subscribe to the &lt;a href="https://studentrobotics.org/srawn/rss.xml"&gt;SR(A)WN RSS Feed&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description><pubDate>Sat, 05 Jun 2021 00:00:00 -0000</pubDate><guid isPermaLink="false">https://studentrobotics.org/srawn/SR2022/2021-06-05-srawn-01.html</guid></item></channel></rss>
+</description><pubDate>Sat, 05 Jun 2021 00:00:00 -0000</pubDate><guid isPermaLink="false">https://studentrobotics.org/srawn/SR2022/2021-06-05-srawn-01.html</guid></item><item><title>SR2022 Issue 02</title><link>https://studentrobotics.org/srawn/SR2022/2021-10-10-srawn-02.html</link><description>&lt;p&gt;The Student Robotics (Almost) Weekly Newsletter is a (roughly) fortnightly newsletter which summarises the goings‐on across Student Robotics. &lt;strong&gt;Emboldened&lt;/strong&gt; items are ones for which additional help has been requested.&lt;/p&gt;
+&lt;h3&gt;Kit Packing Event - Next Weekend&lt;/h3&gt;
+&lt;p&gt;There's a kit packing day happening on 2021-10-16 (next Saturday) at Southampton University (Building 32 (32/3077)). Plan is to start at around 10am.&lt;/p&gt;
+&lt;p&gt;Kit packing is when we test the kit works, clean it, triage it and pack it into RUBs to be shipped out to teams. It'll be a great chance to meet other volunteers and generally socialise. We'll probably then do something social in the evening too.&lt;/p&gt;
+&lt;p&gt;All volunteers welcome, although we do strongly recommend doing a COVID test before attending. There's a &lt;a href="https://calendar.google.com/calendar/u/0/r/month/2021/10/16?eid=N2hmdmF0Mmhlc3E5b3NtdmkzMTA4M2VwcmYgc3R1ZGVudHJvYm90aWNzLm9yZ19vcWRqYXN2cHBzOHNtbzBkNW50ZTQxN3Jha0Bn&amp;amp;ctz=Europe/London&amp;amp;sf=true"&gt;calendar event&lt;/a&gt; with all the details.&lt;/p&gt;
+&lt;h3&gt;Kit Hack Day - 30th October&lt;/h3&gt;
+&lt;p&gt;There's a kit &amp;quot;hack&amp;quot; day happening on 2021-10-30  at Southampton University (Building 32 (32/3077)). We're planning to start at around 10am.&lt;/p&gt;
+&lt;p&gt;Kit hacking days are a chance for us to spend a day working on all aspects of the kit, making sure it's ready for kickstart. Not only is there development, but documentation, testing, chatting, discussions, and more. It'll be a great chance to meet other volunteers and generally socialise. We'll probably then do something social in the evening too.&lt;/p&gt;
+&lt;p&gt;All volunteers welcome, although we do strongly recommend doing a COVID test before attending. There's a &lt;a href="https://calendar.google.com/calendar/u/0/r/month/2021/10/30?eid=MDlpbnU3N29kZWxtcHJvaDZqOTM4aWIzdGsgc3R1ZGVudHJvYm90aWNzLm9yZ19vcWRqYXN2cHBzOHNtbzBkNW50ZTQxN3Jha0Bn&amp;amp;ctz=Europe/London&amp;amp;sf=true"&gt;calendar event&lt;/a&gt; with all the details.&lt;/p&gt;
+&lt;h3&gt;Game Design&lt;/h3&gt;
+&lt;p&gt;A successful games design meeting was had on Thursday, and work on a rulebook has begun. Join &lt;a href="https://studentrobotics.slack.com/archives/CCVCJ0CR5"&gt;#game&lt;/a&gt; in Slack and see discussions on the rules. All contributions are welcome.&lt;/p&gt;
+&lt;h3&gt;Kickstart&lt;/h3&gt;
+&lt;p&gt;This year is the long-awaited return of the physical robotics competition! Kickstart will be a virtual event, that is &lt;a href="https://github.com/srobo/team-emails/pull/88/files"&gt;currently planned&lt;/a&gt; for 13th November.&lt;/p&gt;
+&lt;h2&gt;Subscribe to SR(A)WN&lt;/h2&gt;
+&lt;p&gt;You can keep up with SR(A)WN online:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Join the &lt;code&gt;#srawn&lt;/code&gt; channel on &lt;a href="https://app.slack.com/client/T0EEPF1LH/C01GBT8NMSN"&gt;Slack&lt;/a&gt; &lt;em&gt;recommended&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Join the &lt;code&gt;srawn&lt;/code&gt; mailing list on &lt;a href="https://groups.google.com/g/srawn"&gt;Google Groups&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Read historical issues on the &lt;a href="https://studentrobotics.org/srawn"&gt;SR(A)WN Archive&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Subscribe to the &lt;a href="https://studentrobotics.org/srawn/rss.xml"&gt;SR(A)WN RSS Feed&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description><pubDate>Sun, 10 Oct 2021 00:00:00 -0000</pubDate><guid isPermaLink="false">https://studentrobotics.org/srawn/SR2022/2021-10-10-srawn-02.html</guid></item></channel></rss>
