@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>SR(A)WN</title><link>https://studentrobotics.org/srawn/</link><description>Student Robotics (Almost) Weekly Newsletter</description><lastBuildDate>Sun, 24 Oct 2021 00:00:00 -0000</lastBuildDate><item><title>SR2015 Issue 03</title><link>https://studentrobotics.org/srawn/SR2015/2014-06-23-srawn-03.html</link><description>&lt;h1&gt;SR(A)WN 2015 — 3&lt;/h1&gt;
+<rss version="2.0"><channel><title>SR(A)WN</title><link>https://studentrobotics.org/srawn/</link><description>Student Robotics (Almost) Weekly Newsletter</description><lastBuildDate>Sun, 07 Nov 2021 00:00:00 -0000</lastBuildDate><item><title>SR2015 Issue 03</title><link>https://studentrobotics.org/srawn/SR2015/2014-06-23-srawn-03.html</link><description>&lt;h1&gt;SR(A)WN 2015 — 3&lt;/h1&gt;
 &lt;p&gt;This is the third issue of the Student Robotics (Almost) Weekly Newsletter, a (roughly) fortnightly newsletter which summarises the goings-on across SR. This is a bit of an experiment, so if you have feedback or think we've missed something, feel free to reply to this thread. &lt;strong&gt;Emboldened items&lt;/strong&gt; are ones which we believe could do with extra hands. An absence of emboldening does not necessarily mean that everything is done.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Since exams are now over, Peter has resumed his &lt;a href="https://groups.google.com/d/topic/srobo/IE-xKIQgWOY/discussion"&gt;&amp;quot;Learning by doings&amp;quot;&lt;/a&gt; idea, using Google Hangouts to perform tasks along with other blueshirts. &lt;strong&gt;Ideas for topics of these doings would be welcome&lt;/strong&gt;. [0]&lt;/li&gt;
@@ -849,4 +849,19 @@ videos remain available on YouTube, as well as a cut-down video of the final:&lt
 &lt;li&gt;Read historical issues on the &lt;a href="https://studentrobotics.org/srawn"&gt;SR(A)WN Archive&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Subscribe to the &lt;a href="https://studentrobotics.org/srawn/rss.xml"&gt;SR(A)WN RSS Feed&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description><pubDate>Sun, 24 Oct 2021 00:00:00 -0000</pubDate><guid isPermaLink="false">https://studentrobotics.org/srawn/SR2022/2021-10-24-srawn-03.html</guid></item></channel></rss>
+</description><pubDate>Sun, 24 Oct 2021 00:00:00 -0000</pubDate><guid isPermaLink="false">https://studentrobotics.org/srawn/SR2022/2021-10-24-srawn-03.html</guid></item><item><title>SR2022 Issue 04</title><link>https://studentrobotics.org/srawn/SR2022/2021-11-07-srawn-04.html</link><description>&lt;p&gt;The Student Robotics (Almost) Weekly Newsletter is a (roughly) fortnightly newsletter which summarises the goings‐on across Student Robotics. &lt;strong&gt;Emboldened&lt;/strong&gt; items are ones for which additional help has been requested.&lt;/p&gt;
+&lt;h2&gt;New sponsor: Mythic Beasts&lt;/h2&gt;
+&lt;p&gt;We have a new sponsor! We're pleased to welcome &lt;a href="https://www.mythic-beasts.com/"&gt;Mythic Beasts&lt;/a&gt; as a bronze level sponsor, who are providing the infrastructure team with the servers they need to provide their service to the rest of Student Robotics.&lt;/p&gt;
+&lt;h2&gt;SR2022 Game&lt;/h2&gt;
+&lt;p&gt;We've been putting the finishing touches to the rules for SR2022. &lt;strong&gt;There's still time to voice your opinion! &lt;a href="https://github.com/srobo/rules/pull/62"&gt;srobo/rules#62&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;Kickstart&lt;/h2&gt;
+&lt;p&gt;Kickstart is in less than a week's time. If you're interested in helping make it happen, &lt;strong&gt;come along to next week's competition team meeting on Wednesday @ 19:30 UK.&lt;/strong&gt; Details can be found in our &lt;a href="https://studentrobotics.org/runbook/volunteering/calendars/"&gt;calendar&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Subscribe to SR(A)WN&lt;/h2&gt;
+&lt;p&gt;You can keep up with SR(A)WN online:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Join the &lt;code&gt;#srawn&lt;/code&gt; channel on &lt;a href="https://app.slack.com/client/T0EEPF1LH/C01GBT8NMSN"&gt;Slack&lt;/a&gt; &lt;em&gt;recommended&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Join the &lt;code&gt;srawn&lt;/code&gt; mailing list on &lt;a href="https://groups.google.com/g/srawn"&gt;Google Groups&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Read historical issues on the &lt;a href="https://studentrobotics.org/srawn"&gt;SR(A)WN Archive&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Subscribe to the &lt;a href="https://studentrobotics.org/srawn/rss.xml"&gt;SR(A)WN RSS Feed&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description><pubDate>Sun, 07 Nov 2021 00:00:00 -0000</pubDate><guid isPermaLink="false">https://studentrobotics.org/srawn/SR2022/2021-11-07-srawn-04.html</guid></item></channel></rss>
