@@ -21,9 +21,12 @@ jobs:
       - name: Install dependencies
         run: bash ./scripts/setup.sh
 
-      - uses: borales/actions-yarn@v2.0.0
+      - uses: actions/setup-node@v2
         with:
-          cmd: install # will run `yarn install` command
+          node-version: '14'
+
+      - name: Install
+        run: yarn install
 
       - name: Build newsletters
         run: bash ./scripts/render-all.sh
