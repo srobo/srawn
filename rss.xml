@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>SR(A)WN</title><link>https://studentrobotics.org/srawn/</link><description>Student Robotics (Almost) Weekly Newsletter</description><lastBuildDate>Thu, 23 Dec 2021 00:00:00 -0000</lastBuildDate><item><title>SR2015 Issue 03</title><link>https://studentrobotics.org/srawn/SR2015/2014-06-23-srawn-03.html</link><description>&lt;h1&gt;SR(A)WN 2015 — 3&lt;/h1&gt;
+<rss version="2.0"><channel><title>SR(A)WN</title><link>https://studentrobotics.org/srawn/</link><description>Student Robotics (Almost) Weekly Newsletter</description><lastBuildDate>Thu, 10 Feb 2022 00:00:00 -0000</lastBuildDate><item><title>SR2015 Issue 03</title><link>https://studentrobotics.org/srawn/SR2015/2014-06-23-srawn-03.html</link><description>&lt;h1&gt;SR(A)WN 2015 — 3&lt;/h1&gt;
 &lt;p&gt;This is the third issue of the Student Robotics (Almost) Weekly Newsletter, a (roughly) fortnightly newsletter which summarises the goings-on across SR. This is a bit of an experiment, so if you have feedback or think we've missed something, feel free to reply to this thread. &lt;strong&gt;Emboldened items&lt;/strong&gt; are ones which we believe could do with extra hands. An absence of emboldening does not necessarily mean that everything is done.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Since exams are now over, Peter has resumed his &lt;a href="https://groups.google.com/d/topic/srobo/IE-xKIQgWOY/discussion"&gt;&amp;quot;Learning by doings&amp;quot;&lt;/a&gt; idea, using Google Hangouts to perform tasks along with other blueshirts. &lt;strong&gt;Ideas for topics of these doings would be welcome&lt;/strong&gt;. [0]&lt;/li&gt;
@@ -900,4 +900,26 @@ videos remain available on YouTube, as well as a cut-down video of the final:&lt
 &lt;li&gt;Read historical issues on the &lt;a href="https://studentrobotics.org/srawn"&gt;SR(A)WN Archive&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Subscribe to the &lt;a href="https://studentrobotics.org/srawn/rss.xml"&gt;SR(A)WN RSS Feed&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description><pubDate>Thu, 23 Dec 2021 00:00:00 -0000</pubDate><guid isPermaLink="false">https://studentrobotics.org/srawn/SR2022/2021-12-23-srawn-06.html</guid></item></channel></rss>
+</description><pubDate>Thu, 23 Dec 2021 00:00:00 -0000</pubDate><guid isPermaLink="false">https://studentrobotics.org/srawn/SR2022/2021-12-23-srawn-06.html</guid></item><item><title>SR2022 Issue 07</title><link>https://studentrobotics.org/srawn/SR2022/2022-02-10-srawn-07.html</link><description>&lt;p&gt;The Student Robotics (Almost) Weekly Newsletter is a (roughly) fortnightly newsletter which summarises the goings‐on across Student Robotics. &lt;strong&gt;Emboldened&lt;/strong&gt; items are ones for which additional help has been requested.&lt;/p&gt;
+&lt;h2&gt;Upcoming Tech Day&lt;/h2&gt;
+&lt;p&gt;After a sucessful &lt;a href="https://studentrobotics.org/events/sr2022/virtual-tech-day-january/"&gt;Virtual Tech Day&lt;/a&gt; on the 22nd January in our Discord server. Teams met in person to work on their robots and got help and guidance remotely from our volunteers. Great progess was made!&lt;/p&gt;
+&lt;p&gt;Following on from this success, we are planning another virtual Tech Day on the 5th March. &lt;strong&gt;If you're interested in helping out with this tech day, please &lt;a href="https://studentrobotics.slack.com/archives/CBP7UL6RG"&gt;join #competition-team&lt;/a&gt; in Slack and let us know!&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;Competition Dates Announced&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://studentrobotics.org/events/sr2022/competition/"&gt;The competition&lt;/a&gt; will be held on the 23rd and 24th of April 2022 at SUSU on the University of Southamptons' Highfield Campus. There will be setup days on the 21st and 22nd of April. &lt;strong&gt;If you are interested in volunteering at the competition, please &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSeferj0EDVmPDsaKK-CzG2-YzFJETTbgSeyEMRgdahJ0T3slQ/viewform"&gt;register your interest&lt;/a&gt;&lt;/strong&gt; and we'll get in touch closer to the competition to work out the remaining details.&lt;/p&gt;
+&lt;h2&gt;Tasks have been imported into the task tracker&lt;/h2&gt;
+&lt;p&gt;The recurring tasks that we need to complete for each competition have been imported into &lt;a href="https://github.com/srobo/tasks/issues?q=is%3Aopen+is%3Aissue+milestone%3A%22SR2022+Competition%22"&gt;srobo/tasks&lt;/a&gt;. This year we have grouped the tasks into areas and assigned a Head and a Deputy for each. &lt;strong&gt;If you see a task you want to get involved with just comment on the issue :)&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;Kit Update&lt;/h2&gt;
+&lt;p&gt;The Kit team has released version 2022.1.0 of the brain board image and are working on creating a browser interface to help teams work on their code. &lt;strong&gt;If you're interested in helping build this new UI join &lt;a href="https://studentrobotics.slack.com/archives/C031U0TL2KF"&gt;#kit-web-interface&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;Progress from Teams&lt;/h2&gt;
+&lt;p&gt;We recently polled teams to get a sense of how they're going. As you'd expect at this stage of the competition, the results were mixed. Some of the teams have moving robot bases and are honing their ability to find cans, while others are still in the early stages of construction.
+In addition to mentoring (some of which is happening in person), we're considering other ways to support teams pro-actively to ensure they have the best experience at the competition.&lt;/p&gt;
+&lt;p&gt;If you're interested in keeping up with the teams progess you can follow us on Twitter &lt;a href="https://twitter.com/studentrobotics"&gt;@studentrobotics&lt;/a&gt; where we retweet teams' progess. &lt;strong&gt;If you're interested in helping out with mentoring, please &lt;a href="https://studentrobotics.slack.com/archives/CBP7UL6RG"&gt;join #competition-team&lt;/a&gt; in Slack and let us know!&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;Subscribe to SR(A)WN&lt;/h2&gt;
+&lt;p&gt;You can keep up with SR(A)WN online:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Join the &lt;code&gt;#srawn&lt;/code&gt; channel on &lt;a href="https://app.slack.com/client/T0EEPF1LH/C01GBT8NMSN"&gt;Slack&lt;/a&gt; &lt;em&gt;recommended&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Join the &lt;code&gt;srawn&lt;/code&gt; mailing list on &lt;a href="https://groups.google.com/g/srawn"&gt;Google Groups&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Read historical issues on the &lt;a href="https://studentrobotics.org/srawn"&gt;SR(A)WN Archive&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Subscribe to the &lt;a href="https://studentrobotics.org/srawn/rss.xml"&gt;SR(A)WN RSS Feed&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description><pubDate>Thu, 10 Feb 2022 00:00:00 -0000</pubDate><guid isPermaLink="false">https://studentrobotics.org/srawn/SR2022/2022-02-10-srawn-07.html</guid></item></channel></rss>
