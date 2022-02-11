@@ -4,6 +4,12 @@
   "repository": "https://github.com/srobo/srawn.git",
   "author": "Student Robotics <info@studentrobotics.org>",
   "private": true,
+  "scripts": {
+    "cspell": "cspell '**'"
+  },
+  "devDependencies": {
+    "cspell": "^5.18.4"
+  },
   "dependencies": {
     "mjml": "^4.7.1"
   }
