@@ -19,7 +19,7 @@
 </description><pubDate>Mon, 23 Jun 2014 00:00:00 -0000</pubDate><guid isPermaLink="false">https://studentrobotics.org/srawn/SR2015/2014-06-23-srawn-03.html</guid></item><item><title>SR2015 Issue 02</title><link>https://studentrobotics.org/srawn/SR2015/2014-07-02-srawn-02.html</link><description>&lt;h1&gt;SR(A)WN 2015 — 4&lt;/h1&gt;
 &lt;p&gt;This is the fourth issue of the Student Robotics (Almost) Weekly Newsletter, a (roughly) fortnightly newsletter which summarises the goings-on across SR. This is a bit of an experiment, so if you have feedback or think we've missed something, feel free to reply to this thread. &lt;strong&gt;Emboldened&lt;/strong&gt; items are ones which we believe could do with extra hands. An absence of emboldening does not necessarily mean that everything is done.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Two internships are running over the summer. Giorgos Karatziolas will be working on &lt;a href="https://groups.google.com/d/topic/srobo-devel/_GiVdXIvGO4/discussion"&gt;making a battery fuel guage&lt;/a&gt; [0] and Tom Leese will be working on the interface on the tablets as part of the new SR2015 kit (list post to come shortly).&lt;/li&gt;
+&lt;li&gt;Two internships are running over the summer. Giorgos Karatziolas will be working on &lt;a href="https://groups.google.com/d/topic/srobo-devel/_GiVdXIvGO4/discussion"&gt;making a battery fuel gauge&lt;/a&gt; [0] and Tom Leese will be working on the interface on the tablets as part of the new SR2015 kit (list post to come shortly).&lt;/li&gt;
 &lt;li&gt;Certificates have &lt;em&gt;definitely&lt;/em&gt; &lt;a href="https://groups.google.com/d/msg/srobo/f8ps8rKfeE0/IeYUpzcAuWcJ"&gt;been sent out now&lt;/a&gt; [1].&lt;/li&gt;
 &lt;li&gt;The game submission deadline is almost with us: &lt;a href="https://groups.google.com/d/topic/srobo-game/icdyUesc5XU/discussion"&gt;discussion ends on the 4th and voting on the 9th&lt;/a&gt; [2]. &lt;strong&gt;Anyone who has a game submission should take the time to &lt;a href="https://groups.google.com/d/topic/srobo-game/YHTqEKftaS0/discussion"&gt;clarify the final version&lt;/a&gt; [3] of their game on the list.&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;Smallpeice is taking place in the last week of July and &lt;strong&gt;any extra volunteers would be helpful&lt;/strong&gt;.&lt;/li&gt;
@@ -57,7 +57,7 @@
 &lt;/li&gt;
 &lt;li&gt;Peter &lt;a href="https://groups.google.com/d/topic/srobo/2DJJgpCf9yg/discussion"&gt;proposed a number of ways&lt;/a&gt; to get better publicity, including organising the news better.&lt;/li&gt;
 &lt;li&gt;First cuts of the videos produced by Olly during Smallpeice are available at their respective trac tickets: &lt;a href="https://www.studentrobotics.org/trac/ticket/2588"&gt;State Machines&lt;/a&gt;, &lt;a href="https://www.studentrobotics.org/trac/ticket/2585"&gt;Inputs&lt;/a&gt;, &lt;a href="https://www.studentrobotics.org/trac/ticket/2584"&gt;Program Design&lt;/a&gt; and &lt;a href="https://www.studentrobotics.org/trac/ticket/2583"&gt;Debugging&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;SR testing: Southampton spent the last doings developing &lt;a href="https://github.com/Muzer/sr-test-scripts"&gt;test scripts&lt;/a&gt; for cameras, motor boards and ruggueduinos; these scripts are now all functioning and testing with them will finish soon.&lt;/li&gt;
+&lt;li&gt;SR testing: Southampton spent the last doings developing &lt;a href="https://github.com/Muzer/sr-test-scripts"&gt;test scripts&lt;/a&gt; for cameras, motor boards and Ruggeduinos; these scripts are now all functioning and testing with them will finish soon.&lt;/li&gt;
 &lt;li&gt;Batteries are being tested and recharged ready for shipping.&lt;/li&gt;
 &lt;li&gt;Assembly of new boards into cases has started in Oxford.&lt;/li&gt;
 &lt;li&gt;Alistair, Giorgos and Lilafisch are getting the micro games finished and Giorgos will announce a doing for assembling the bits that need to go to the different Kickstarts, instructions for blueshirts are being written.&lt;/li&gt;
@@ -83,7 +83,7 @@
 &lt;li&gt;&lt;a href="https://groups.google.com/d/topic/srobo/ggnE-Jrey-Y/discussion"&gt;Southampton Kickstart&lt;/a&gt; is happening - arrive at 08:00 at building 32 and bring kettle if convenient.&lt;/li&gt;
 &lt;li&gt;Bristol Kickstart is happening.&lt;/li&gt;
 &lt;li&gt;Batteries were unable to be shipped with the pallet so they are being transported separately.&lt;/li&gt;
-&lt;li&gt;Screwdrivers and wirestripper shipping has occurred and have definitely arrived in &lt;a href="https://groups.google.com/d/topic/srobo/MTpP6wLcHJE/discussion"&gt;Southampton&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Screwdrivers and wire-stripper shipping has occurred and have definitely arrived in &lt;a href="https://groups.google.com/d/topic/srobo/MTpP6wLcHJE/discussion"&gt;Southampton&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;The videos Olly has been producing have been put on hiatus &lt;a href="https://groups.google.com/d/topic/srobo/V4siqbGbc7A/discussion"&gt;due to unfortunate circumstances&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;Account creation is &lt;a href="https://groups.google.com/d/topic/srobo-devel/NIqflkL6JhQ/discussion"&gt;ongoing&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
@@ -183,7 +183,7 @@
 &lt;ul&gt;
 &lt;li&gt;Peter Symonds https://pscrobotics.wordpress.com/2015/01/16/cheeky-build-photo/&lt;/li&gt;
 &lt;li&gt;QMC http://teamqmc.esy.es/uncategorized/update-2112015/&lt;/li&gt;
-&lt;li&gt;Collyers http://collyersstudentrobotics.blogspot.co.uk/2015/01/keeping-everything-clean-and-tidy.html&lt;/li&gt;
+&lt;li&gt;Collyer's http://collyersstudentrobotics.blogspot.co.uk/2015/01/keeping-everything-clean-and-tidy.html&lt;/li&gt;
 &lt;li&gt;Cornwall College Saltash http://ccsrobotics.over-blog.com/2015/01/week-8-recapping-the-code.html&lt;/li&gt;
 &lt;li&gt;Brockenhurst have a robot base and a good idea of how they're going to build the rest of it.&lt;/li&gt;
 &lt;li&gt;Taunton do not have a robot yet, but they have been prototyping on last year's robot.&lt;/li&gt;
@@ -196,7 +196,7 @@
 &lt;p&gt;This is the fifteenth issue of the Student Robotics (Almost) Weekly Newsletter, a (roughly) fortnightly newsletter which summarises the goings‐on across Student Robotics. &lt;strong&gt;Emboldened&lt;/strong&gt; items are ones which we believe could do with extra hands. An absence of emboldening does not necessarily mean that everything is done.&lt;/p&gt;
 &lt;h3&gt;Internal Updates&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;A hangout to discuss the competition software occured, with various outcomes. Tickets have been created and anyone can feel free to pick up any task. Already bugs and features are being submitted to Gerrit and merged in.&lt;/li&gt;
+&lt;li&gt;A hangout to discuss the competition software occurred, with various outcomes. Tickets have been created and anyone can feel free to pick up any task. Already bugs and features are being submitted to Gerrit and merged in.&lt;/li&gt;
 &lt;li&gt;Bristol hosted its second tech day—33 competitors turned up.&lt;/li&gt;
 &lt;li&gt;Part of the 'How to Help' page on the website has been rewritten to make it more readable.&lt;/li&gt;
 &lt;li&gt;Steering committee vote happened and the results have been published.&lt;/li&gt;
@@ -205,7 +205,7 @@
 &lt;li&gt;The &lt;em&gt;first&lt;/em&gt; Volunteer Activity Day happened and was a great success.&lt;/li&gt;
 &lt;li&gt;Investigations into whether keeping Git objects in a database is any better for the IDE.&lt;/li&gt;
 &lt;li&gt;Research into improved match scheduling at the competition has happened.&lt;/li&gt;
-&lt;li&gt;A private PyPI has been set up to putu any Pip and Setuptools based Python projects we have.&lt;/li&gt;
+&lt;li&gt;A private PyPI has been set up to put any Pip and Setuptools based Python projects we have.&lt;/li&gt;
 &lt;li&gt;A commit to merge the new tools branch back into the tools has been submitted to Gerrit.&lt;/li&gt;
 &lt;li&gt;The power board now has firmware capable of playing sounds via the on board piezo.&lt;/li&gt;
 &lt;/ul&gt;
@@ -222,7 +222,7 @@
 &lt;ul&gt;
 &lt;li&gt;Peter Symonds https://pscrobotics.wordpress.com/2015/01/16/cheeky-build-photo/&lt;/li&gt;
 &lt;li&gt;QMC http://teamqmc.esy.es/uncategorized/update-2112015/&lt;/li&gt;
-&lt;li&gt;Collyers http://collyersstudentrobotics.blogspot.co.uk/2015/01/keeping-everything-clean-and-tidy.html&lt;/li&gt;
+&lt;li&gt;Collyer's http://collyersstudentrobotics.blogspot.co.uk/2015/01/keeping-everything-clean-and-tidy.html&lt;/li&gt;
 &lt;li&gt;Cornwall College Saltash http://ccsrobotics.over-blog.com/2015/01/week-8-recapping-the-code.html&lt;/li&gt;
 &lt;li&gt;KES are still having problems with their kit. Looks like the image wasn't the problem in the end and instead their power board may be faulty.&lt;/li&gt;
 &lt;/ul&gt;
@@ -566,7 +566,7 @@
 &lt;/ul&gt;
 &lt;h3&gt;Minor Headlines&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;The volunteers in Southampton have permananently moved to &lt;a href="https://studentrobotics.slack.com/"&gt;The SR Slack&lt;/a&gt; for all communications.&lt;/li&gt;
+&lt;li&gt;The volunteers in Southampton have permanently moved to &lt;a href="https://studentrobotics.slack.com/"&gt;The SR Slack&lt;/a&gt; for all communications.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr /&gt;
 &lt;p&gt;Thanks to everyone who helped put this issue together. If you would like, you can also read the &lt;a href="https://groups.google.com/d/msg/srobo/R0klOD2wW6A/b2_zJtRcAQAJ"&gt;previous issue&lt;/a&gt;.&lt;/p&gt;
