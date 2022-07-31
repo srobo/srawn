@@ -142,9 +142,9 @@
 &lt;p&gt;This is the thirteenth issue of the Student Robotics (Almost) Weekly Newsletter, a (roughly) fortnightly newsletter which summarises the goings‐on across Student Robotics. &lt;strong&gt;Emboldened&lt;/strong&gt; items are ones which we believe could do with extra hands. An absence of emboldening does not necessarily mean that everything is done.&lt;/p&gt;
 &lt;h3&gt;Internal updates:&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Committee steering elections are coming up. &lt;strong&gt;Applicants for roles must do so via &lt;a href="https://groups.google.com/forum/#%21topic/srobo/pIsqEwqSmfI"&gt;the mailing list&lt;/a&gt; by 26th January.&lt;/strong&gt; Steering committee roles on Trac have been &lt;a href="https://www.studentrobotics.org/trac/wiki/Committee2/SteeringRoles"&gt;updated&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Committee steering elections are coming up. &lt;strong&gt;Applicants for roles must do so via &lt;a href="https://groups.google.com/forum/#!topic/srobo/pIsqEwqSmfI"&gt;the mailing list&lt;/a&gt; by 26th January.&lt;/strong&gt; Steering committee roles on Trac have been &lt;a href="https://www.studentrobotics.org/trac/wiki/Committee2/SteeringRoles"&gt;updated&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.studentrobotics.org/gerrit/#/q/status:open+project:server/puppet,n,z"&gt;Various patches&lt;/a&gt; to &lt;code&gt;srweb&lt;/code&gt; which move submodules to Puppet have been updated and require reviewing.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/prophile/srweb-jekyll"&gt;Jekyll&lt;/a&gt; is being &lt;a href="https://groups.google.com/forum/#%21topic/srobo-devel/OED7yj0UgfY"&gt;worked on&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/prophile/srweb-jekyll"&gt;Jekyll&lt;/a&gt; is being &lt;a href="https://groups.google.com/forum/#!topic/srobo-devel/OED7yj0UgfY"&gt;worked on&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://groups.google.com/d/topic/srobo-devel/UhwUkSYaIq4/discussion"&gt;Further updates to the power board&lt;/a&gt; have been worked on.&lt;/li&gt;
 &lt;li&gt;Flag design and prototyping for SR2015 &lt;a href="https://groups.google.com/d/topic/srobo-devel/6iJl04Lv-WE/discussion"&gt;has happened&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;The improvements to the tools have &lt;a href="https://groups.google.com/d/topic/srobo-devel/NHr2Rmdbj4M/discussion"&gt;reached feature completion&lt;/a&gt;. &lt;strong&gt;People should upgrade to check their workflow hasn't been broken.&lt;/strong&gt;&lt;/li&gt;
@@ -306,7 +306,7 @@
 &lt;ul&gt;
 &lt;li&gt;The 2015 competition happened and it was awesome, &lt;a href="https://www.studentrobotics.org/news/2015-04-28_bws_victorious_sr2015"&gt;congratulations go to the winners&lt;/a&gt; and thanks to all the volunteers who helped out on the day—we hope to see you next year! Photos of the competition &lt;a href="https://groups.google.com/d/topic/srobo/1UJ54OKdCVc/discussion"&gt;are being posted&lt;/a&gt; to &lt;a href="https://www.flickr.com/groups/sr2015"&gt;Flickr&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;A number of volunteers &lt;a href="https://groups.google.com/d/topic/srobo/6E6kkvetqE0/discussion"&gt;have posted their opinions&lt;/a&gt; of how this year’s competition went.&lt;/li&gt;
-&lt;li&gt;A “News &amp;amp; Events” mailing list &lt;a href="https://groups.google.com/d/topic/srobo/RpVXCWEsU_o/discussion"&gt;has been created&lt;/a&gt; to coincide with the first fortnightly newsletter of the 2016 year. The mailing list will contain information regarding upcoming events and related news which I would recommend any volunteer &lt;a href="https://groups.google.com/forum/#%21forum/srobo-news"&gt;subscribe to&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;A “News &amp;amp; Events” mailing list &lt;a href="https://groups.google.com/d/topic/srobo/RpVXCWEsU_o/discussion"&gt;has been created&lt;/a&gt; to coincide with the first fortnightly newsletter of the 2016 year. The mailing list will contain information regarding upcoming events and related news which I would recommend any volunteer &lt;a href="https://groups.google.com/forum/#!forum/srobo-news"&gt;subscribe to&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;Various updates to the tools have &lt;a href="https://groups.google.com/d/msg/srobo-devel/NHr2Rmdbj4M/vFJ2uGYPiXMJ"&gt;been merged&lt;/a&gt;. Changes include support for Python 3, virtual environments and a new ‘sr inv-history’ tool.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Thanks to everyone who helped put this issue together. If you would like, you can also read the &lt;a href="https://groups.google.com/d/topic/srobo/rtteXYVfsi4/discussion"&gt;previous issue&lt;/a&gt;.&lt;/p&gt;
@@ -484,9 +484,9 @@
 &lt;hr /&gt;
 &lt;ul&gt;
 &lt;li&gt;A first draft of the Ops Manual has been &lt;a href="https://groups.google.com/d/topic/srobo/OyZMQ8xVlEc/discussion"&gt;published on the mailing list&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;An Activity Day happened in Southampton and some people have &lt;a href="https://groups.google.com/forum/#%21topic/srobo/2KWH6r4iEjc"&gt;spoken about it&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;A list of &lt;a href="https://groups.google.com/forum/#%21topic/srobo/1PGbwKFDsM0"&gt;teams on Twitter&lt;/a&gt; has been compiled.&lt;/li&gt;
-&lt;li&gt;An initial form for announcing &lt;a href="https://groups.google.com/forum/#%21topic/srobo/kyJ9WKfqViQ"&gt;interest to helping at the competition&lt;/a&gt; has been released.&lt;/li&gt;
+&lt;li&gt;An Activity Day happened in Southampton and some people have &lt;a href="https://groups.google.com/forum/#!topic/srobo/2KWH6r4iEjc"&gt;spoken about it&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;A list of &lt;a href="https://groups.google.com/forum/#!topic/srobo/1PGbwKFDsM0"&gt;teams on Twitter&lt;/a&gt; has been compiled.&lt;/li&gt;
+&lt;li&gt;An initial form for announcing &lt;a href="https://groups.google.com/forum/#!topic/srobo/kyJ9WKfqViQ"&gt;interest to helping at the competition&lt;/a&gt; has been released.&lt;/li&gt;
 &lt;li&gt;The date and location for the competition &lt;a href="https://groups.google.com/d/topic/srobo/d8jMxfXA5Cs/discussion"&gt;has been announced as the 30th April at Newbury Racecourse&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr /&gt;
@@ -495,7 +495,7 @@
 &lt;p&gt;This is the nineteenth issue of the 2016 Student Robotics (Almost) Weekly Newsletter, a (roughly) fortnightly newsletter which summarises the goings‐on across Student Robotics. &lt;strong&gt;Emboldened&lt;/strong&gt; items are ones which we believe could do with extra hands. An absence of emboldening does not necessarily mean that everything is done.&lt;/p&gt;
 &lt;hr /&gt;
 &lt;ul&gt;
-&lt;li&gt;Some &lt;a href="https://groups.google.com/forum/#%21topic/srobo/wsJrHe_VdJ8"&gt;more videos&lt;/a&gt; have been created. Notably one for &lt;a href="https://youtu.be/1nuQV77-_x4"&gt;how to use the tablet&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Some &lt;a href="https://groups.google.com/forum/#!topic/srobo/wsJrHe_VdJ8"&gt;more videos&lt;/a&gt; have been created. Notably one for &lt;a href="https://youtu.be/1nuQV77-_x4"&gt;how to use the tablet&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;The Tech Day in Southampton last Saturday was very successful. The teams worked on their robots and made the most of the help offered.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr /&gt;
@@ -546,13 +546,13 @@
 &lt;hr /&gt;
 &lt;h2&gt;Headlines&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://groups.google.com/forum/#%21topic/srobo-game/-SNXPWVv8_M"&gt;Games&lt;/a&gt; for next year's competition have started to be suggested. &lt;strong&gt;If you have access to the thread feel free to contribute your ideas.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://groups.google.com/forum/#!topic/srobo-game/-SNXPWVv8_M"&gt;Games&lt;/a&gt; for next year's competition have started to be suggested. &lt;strong&gt;If you have access to the thread feel free to contribute your ideas.&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;It has been a slow (almost) week at Student Robotics.&lt;/li&gt;
 &lt;li&gt;Jimmy Thompson has been working on a &lt;a href="https://srobo.github.io/style/"&gt;new Style Guide&lt;/a&gt; for the logo, and an &lt;a href="https://srobo.github.io/website/"&gt;entirely new website&lt;/a&gt;, and &lt;strong&gt;&lt;a href="https://groups.google.com/d/msg/srobo/fho0shyhFxM/4HLBNMtzAwAJ"&gt;has asked for feedback&lt;/a&gt; in the mailing list.&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;There has been &lt;a href="https://groups.google.com/d/msg/srobo/-l4vxh7clo4/fFxLHfCCAQAJ"&gt;continued discussion&lt;/a&gt; about whether the new private &lt;a href="https://studentrobotics.slack.com/"&gt;slack group&lt;/a&gt; should allow competitors to join.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr /&gt;
-&lt;p&gt;Thanks to everyone who helped put this issue together. If you would like, you can also read the &lt;a href="https://groups.google.com/forum/#%21topic/srobo/yH5ms8BS52U"&gt;previous issue&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Thanks to everyone who helped put this issue together. If you would like, you can also read the &lt;a href="https://groups.google.com/forum/#!topic/srobo/yH5ms8BS52U"&gt;previous issue&lt;/a&gt;.&lt;/p&gt;
 </description><pubDate>Wed, 15 Jun 2016 00:00:00 -0000</pubDate><guid isPermaLink="false">https://studentrobotics.org/srawn/SR2017/2016-06-15-srawn-03.html</guid></item><item><title>SR2017 Issue 06</title><link>https://studentrobotics.org/srawn/SR2017/2016-06-15-srawn-06.html</link><description>&lt;h1&gt;SR(A)WN 2017 -- 6&lt;/h1&gt;
 &lt;p&gt;This is the sixth issue of the 2017 Student Robotics (Almost) Weekly Newsletter, a (roughly) fortnightly newsletter which summarises the goings‐on across Student Robotics. &lt;strong&gt;Emboldened&lt;/strong&gt; items are ones which we believe could do with extra hands. An absence of emboldening does not necessarily mean that everything is done.&lt;/p&gt;
 &lt;hr /&gt;
