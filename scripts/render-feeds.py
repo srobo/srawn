@@ -16,7 +16,7 @@ def strip_tags(html):
             super().__init__()
             self.reset()
             self.strict = False
-            self.convert_charrefs= True
+            self.convert_charrefs = True
             self.text = StringIO()
 
         def handle_data(self, d):
