@@ -74,8 +74,10 @@ for md_path in sorted(working_dir.glob("SR20*/*.md")):
         description=strip_tags(content),
     )
 
-with (working_dir / "out" / "html" / "rss.xml").open("w") as f:
+output_dir = working_dir / "out" / "html"
+
+with (output_dir / "rss.xml").open("w") as f:
     feed.write(f, "utf-8")
 
-with (working_dir / "out" / "html" / "rss-simple.xml").open("w") as f:
+with (output_dir / "rss-simple.xml").open("w") as f:
     simple_feed.write(f, "utf-8")
