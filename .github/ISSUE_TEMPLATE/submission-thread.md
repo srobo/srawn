@@ -1,13 +1,13 @@
 ---
 name: Submission Thread
 about: Submission Thread for SR(A)WN content
-title: "[SRAWN-SUBMIT] SR2022 Issue XX"
+title: "[SRAWN-SUBMIT] SR2023 Issue XX"
 labels: srawn-submit
 assignees: ''
 
 ---
 ```
-sryear: SR2022
+sryear: SR2023
 issue: XX
 submission-date: 202X-XX-XXT00:00:00Z
 publication-date: 202X-XX-XXT12:00:00Z
