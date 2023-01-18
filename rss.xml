@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>SR(A)WN</title><link>https://studentrobotics.org/srawn/</link><description>Student Robotics (Almost) Weekly Newsletter</description><lastBuildDate>Thu, 15 Dec 2022 00:00:00 -0000</lastBuildDate><item><title>SR2015 Issue 03</title><link>https://studentrobotics.org/srawn/SR2015/2014-06-23-srawn-03.html</link><description>&lt;h1&gt;SR(A)WN 2015 — 3&lt;/h1&gt;
+<rss version="2.0"><channel><title>SR(A)WN</title><link>https://studentrobotics.org/srawn/</link><description>Student Robotics (Almost) Weekly Newsletter</description><lastBuildDate>Wed, 18 Jan 2023 00:00:00 -0000</lastBuildDate><item><title>SR2015 Issue 03</title><link>https://studentrobotics.org/srawn/SR2015/2014-06-23-srawn-03.html</link><description>&lt;h1&gt;SR(A)WN 2015 — 3&lt;/h1&gt;
 &lt;p&gt;This is the third issue of the Student Robotics (Almost) Weekly Newsletter, a (roughly) fortnightly newsletter which summarises the goings-on across SR. This is a bit of an experiment, so if you have feedback or think we've missed something, feel free to reply to this thread. &lt;strong&gt;Emboldened items&lt;/strong&gt; are ones which we believe could do with extra hands. An absence of emboldening does not necessarily mean that everything is done.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Since exams are now over, Peter has resumed his &lt;a href="https://groups.google.com/d/topic/srobo/IE-xKIQgWOY/discussion"&gt;&amp;quot;Learning by doings&amp;quot;&lt;/a&gt; idea, using Google Hangouts to perform tasks along with other blueshirts. &lt;strong&gt;Ideas for topics of these doings would be welcome&lt;/strong&gt;. [0]&lt;/li&gt;
@@ -1017,4 +1017,29 @@ In addition to mentoring (some of which is happening in person), we're consideri
 &lt;li&gt;Read historical issues on the &lt;a href="https://studentrobotics.org/srawn"&gt;SR(A)WN Archive&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Subscribe to the &lt;a href="https://studentrobotics.org/srawn/rss.xml"&gt;SR(A)WN RSS Feed&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description><pubDate>Thu, 15 Dec 2022 00:00:00 -0000</pubDate><guid isPermaLink="false">https://studentrobotics.org/srawn/SR2023/2022-12-15-srawn-04.html</guid></item></channel></rss>
+</description><pubDate>Thu, 15 Dec 2022 00:00:00 -0000</pubDate><guid isPermaLink="false">https://studentrobotics.org/srawn/SR2023/2022-12-15-srawn-04.html</guid></item><item><title>SR2023 Issue 05</title><link>https://studentrobotics.org/srawn/SR2023/2023-01-18-srawn-05.html</link><description>&lt;p&gt;The Student Robotics (Almost) Weekly Newsletter is a (roughly) fortnightly newsletter which summarises the goings‐on across Student Robotics. &lt;strong&gt;Emboldened&lt;/strong&gt; items are ones for which additional help has been requested.&lt;/p&gt;
+&lt;h2&gt;SR2023 Venue Confirmed&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://studentrobotics.org/events/sr2023/competition/"&gt;The competition&lt;/a&gt; will be held from Saturday 1st April until Sunday 2nd April at SUSU on the University of Southampton's Highfield Campus. There will be setup days on the 30th and 31st of March. &lt;strong&gt;If you are interested in volunteering at the competition, please &lt;a href="https://docs.google.com/forms/d/1MlPF4sx1iL-k4Z59wFRYtJ3ilDNSkV5HyGnZmAEXVzc/viewform"&gt;register your interest&lt;/a&gt;&lt;/strong&gt; and we'll get in touch closer to the competition to work out the remaining details.&lt;/p&gt;
+&lt;h2&gt;February Tech Days&lt;/h2&gt;
+&lt;p&gt;On February 4th, we're holding an in person &lt;a href="https://studentrobotics.org/events/sr2023/horsham-tech-day-february/"&gt;Tech Day in Horsham&lt;/a&gt; as well as a &lt;a href="https://studentrobotics.org/events/sr2023/virtual-tech-day-february/"&gt;virtual Tech day on Discord&lt;/a&gt;. If you're about to help out &lt;strong&gt;please &lt;a href="https://docs.google.com/forms/d/10pTDqkMWiWPpXQC4UwhEwQEveZMG38OM7KAyO8-sRK8/viewform"&gt;sign up&lt;/a&gt; with your availability.&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;Kit Team Plans for SR2024&lt;/h2&gt;
+&lt;p&gt;The Kit Team held a meeting to refine their plans for SR2024. With a backlog of items to work through &lt;strong&gt;if you'd like to help please post in &lt;a href="https://studentrobotics.slack.com/archives/CMQ49PXPG"&gt;#kit-team&lt;/a&gt; on Slack.&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;Mentoring&lt;/h2&gt;
+&lt;p&gt;We're looking for volunteers to mentor our SR2023 teams. This is a great opportunity (especially for new volunteers) to actively get involved with competitors, see their design process, and learn about our kit. This involves joining their meetings on a regular basis to provide support and ideas. If you're interested in this please &lt;strong&gt;&lt;a href="https://docs.google.com/forms/d/1lNGjfSpTzXeQRxv0WDn3X8mL_kBJWcwb69zNNZm08KU/edit"&gt;sign up&lt;/a&gt; to become a mentor&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2&gt;Infrastructure Team&lt;/h2&gt;
+&lt;p&gt;The Infrastructure team have a few projects underway:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Planning the infrastructure for the competition&lt;/li&gt;
+&lt;li&gt;Investigating a CRM for teams &amp;amp; volunteers&lt;/li&gt;
+&lt;li&gt;Collecting information from internal teams about iterating our internal documentation platform&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you'd like to help with any of these &lt;strong&gt;(please post in &lt;a href="https://app.slack.com/client/T0EEPF1LH/C02BXUAK33M"&gt;#infrastructure in slack&lt;/a&gt;).&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;Subscribe to SR(A)WN&lt;/h2&gt;
+&lt;p&gt;You can keep up with SR(A)WN online:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Join the &lt;code&gt;#srawn&lt;/code&gt; channel on &lt;a href="https://app.slack.com/client/T0EEPF1LH/C01GBT8NMSN"&gt;Slack&lt;/a&gt; &lt;em&gt;recommended&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Join the &lt;code&gt;srawn&lt;/code&gt; mailing list on &lt;a href="https://groups.google.com/g/srawn"&gt;Google Groups&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Read historical issues on the &lt;a href="https://studentrobotics.org/srawn"&gt;SR(A)WN Archive&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Subscribe to the &lt;a href="https://studentrobotics.org/srawn/rss.xml"&gt;SR(A)WN RSS Feed&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description><pubDate>Wed, 18 Jan 2023 00:00:00 -0000</pubDate><guid isPermaLink="false">https://studentrobotics.org/srawn/SR2023/2023-01-18-srawn-05.html</guid></item></channel></rss>
