@@ -8,7 +8,7 @@
     "cspell": "cspell '**'"
   },
   "devDependencies": {
-    "cspell": "^5.18.4"
+    "cspell": "^6.8.1"
   },
   "dependencies": {
     "mjml": "^4.7.1"

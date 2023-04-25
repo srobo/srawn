@@ -84,6 +84,7 @@ if __name__ == "__main__":
     md = mistune.create_markdown(renderer=MJMLRenderer())
     content = md(raw_markdown)
 
+    # cspell:disable-next-line
     templateLoader = jinja2.FileSystemLoader(searchpath="./templates")
     templateEnv = jinja2.Environment(loader=templateLoader)
     template = templateEnv.get_template("newsletter.mjml.j2")

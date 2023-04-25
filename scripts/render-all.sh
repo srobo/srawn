@@ -1,10 +1,12 @@
 #!/usr/bin/env bash
 set -o errexit -o nounset -o pipefail
 
+# cspell:disable-next-line
 SRYEARS=SR20*
 
 rm -rf out/
 
+# cspell:disable-next-line
 for year in $SRYEARS
 do
     echo $year
