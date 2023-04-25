@@ -4,6 +4,7 @@ from pathlib import Path
 
 import jinja2
 
+# cspell:disable-next-line
 templateLoader = jinja2.FileSystemLoader(searchpath="./templates")
 templateEnv = jinja2.Environment(loader=templateLoader)
 archive_template = templateEnv.get_template("archive-index.html.j2")
