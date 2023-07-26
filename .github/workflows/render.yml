@@ -33,7 +33,7 @@ jobs:
         run: bash ./scripts/render-all.sh
 
       - name: Upload output for deployment
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v2
         with:
           path: out/html
 
