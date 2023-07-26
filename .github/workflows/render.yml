@@ -62,6 +62,7 @@ jobs:
       - uses: actions/download-artifact@v3
         with:
           name: newsletters
+          path: out/html
 
       - name: Setup Pages
         uses: actions/configure-pages@v3
@@ -70,7 +71,7 @@ jobs:
         uses: actions/upload-pages-artifact@v2
         with:
           # Upload entire repository
-          path: '.'
+          path: out/html
 
       - name: Deploy to GitHub Pages
         id: deployment
