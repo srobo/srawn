@@ -32,7 +32,8 @@ jobs:
       - name: Build newsletters
         run: bash ./scripts/render-all.sh
 
-      - uses: actions/upload-artifact@v3
+      - name: Upload output for deployment
+        uses: actions/upload-artifact@v3
         with:
           name: newsletters
           path: out/html
@@ -54,12 +55,14 @@ jobs:
       id-token: write
     environment:
       name: github-pages
-      url: ${{ steps.deploy.outputs.page_url }}
+      # Tell GitHub where we deployed to
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Checkout sources
         uses: actions/checkout@v3
 
-      - uses: actions/download-artifact@v3
+      - name: Grab output from build job
+        uses: actions/download-artifact@v3
         with:
           name: newsletters
           path: out/html
