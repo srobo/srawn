@@ -24,3 +24,14 @@ pip install -r requirements.txt
 Build all: `./scripts/render-all.sh`
 
 Lint filenames: `./scripts/lint-filenames.py`
+
+## How to SR(A)WN
+
+1. Write an entry in `SRYYYY/YYYY-MM-DD-srawn-NN.md`, substituting the programme year, calendar year, day, month, and issue number within the programme year (e.g. `SR2024/2023-11-05-srawn-03.md`).
+2. Merge into `main`. This automatically updates the website.
+3. Navigate to `https://studentrobotics.org/srawn` in Google Chrome and go to the issue you just added.
+4. Copy the contents of the page.
+5. Open SR gmail. Copy and paste the formatted contents into a new email.
+6. Set the subject line of the email to "SRAWN SRYYYY Issue NN", substituting the programme year and issue number.
+7. Set the To: field to srawn@googlegroups.org
+8. Send.
