@@ -12,6 +12,7 @@
     "ignorePaths": [
         "/node_modules",
         "/requirements.txt",
-        "/.spelling"
+        "/.spelling",
+        "README.md"
     ]
 }
