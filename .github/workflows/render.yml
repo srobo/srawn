@@ -14,17 +14,17 @@ jobs:
       - name: Checkout sources
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.11
+      - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: 3.11
+          python-version-file: '.python-version'
 
       - name: Install dependencies
         run: bash ./scripts/setup.sh
 
       - uses: actions/setup-node@v3
         with:
-          node-version: '18'
+          node-version-file: '.node-version'
 
       - name: Install
         run: yarn install
