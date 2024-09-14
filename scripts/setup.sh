@@ -4,6 +4,6 @@ set -e
 
 python3 -m venv venv
 
-export PATH=venv/bin:${PATH}
+venv/bin/pip install -r requirements.txt
 
-pip install -r requirements.txt
+yarn install

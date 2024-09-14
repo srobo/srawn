@@ -19,18 +19,17 @@ jobs:
         with:
           python-version-file: '.python-version'
 
-      - name: Install dependencies
-        run: bash ./scripts/setup.sh
-
       - uses: actions/setup-node@v3
         with:
           node-version-file: '.node-version'
 
-      - name: Install
-        run: yarn install
+      - name: Install dependencies
+        run: ./scripts/setup.sh
 
       - name: Build newsletters
-        run: bash ./scripts/render-all.sh
+        run: |
+          source venv/bin/activate
+          ./scripts/render-all.sh
 
       - name: Upload output for deployment
         uses: actions/upload-pages-artifact@v2
@@ -75,18 +74,17 @@ jobs:
         with:
           python-version-file: '.python-version'
 
-      - name: Install dependencies
-        run: bash ./scripts/setup.sh
-
       - uses: actions/setup-node@v3
         with:
           node-version-file: '.node-version'
 
-      - name: Install
-        run: yarn install
+      - name: Install dependencies
+        run: ./scripts/setup.sh
 
       - name: Build newsletters
-        run: bash ./scripts/render-all.sh
+        run: |
+          source venv/bin/activate
+          ./scripts/render-all.sh
 
       - name: Upload baseline
         uses: actions/upload-pages-artifact@v2
