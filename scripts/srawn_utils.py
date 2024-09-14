@@ -5,6 +5,9 @@ import re
 from collections.abc import Iterator
 from pathlib import Path
 
+YEAR_FOLDER_PATTERN = re.compile(r"^(SR20\d{2})$")
+ISSUE_FILENAME_PATTERN = re.compile(r"^(20\d{2}-\d{2}-\d{2})-srawn-(\d{2}).md$")
+
 
 class InvalidPath(ValueError):
     pass
@@ -27,20 +30,14 @@ class ParsedIssuePath:
 
 
 def parse_path(path: Path) -> ParsedIssuePath:
-    filename_match = re.match(
-        r"^(20\d{2}-\d{2}-\d{2})-srawn-(\d{2})$",
-        path.stem,
-    )
+    filename_match = ISSUE_FILENAME_PATTERN.match(path.name)
     if not filename_match:
         raise InvalidPath(
-            f"{path.stem!r} does not match format. Run the linter.",
+            f"{path.name!r} does not match format. Run the linter.",
         )
     date, issue_number = filename_match.groups()
 
-    folder_match = re.match(
-        r"^(SR20\d{2})$",
-        path.parent.name,
-    )
+    folder_match = YEAR_FOLDER_PATTERN.match(path.parent.name)
     if not folder_match:
         raise InvalidPath(
             f"{path.parent.name!r} does not match format. Run the linter.",

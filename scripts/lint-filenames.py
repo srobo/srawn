@@ -23,8 +23,9 @@
 # WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 #
 
-import re
 from pathlib import Path
+
+from srawn_utils import ISSUE_FILENAME_PATTERN, YEAR_FOLDER_PATTERN
 
 status = True
 
@@ -32,13 +33,10 @@ print("Verifying minutes filenames.")
 
 repo = Path(".")
 
-filename_regex = re.compile("^20\d{2}-\d{2}-\d{2}-srawn-\d{2}\.md$")
-folder_regex = re.compile("^SR20\d{2}$")
-
 year_folders = [f for f in repo.iterdir() if f.is_dir()]
 
 for folder in year_folders:
-    result = re.match(folder_regex, folder.name)
+    result = YEAR_FOLDER_PATTERN.match(folder.name)
 
     if result is not None:
         print(f"Found valid folder name: {folder.name}")
@@ -52,7 +50,7 @@ for folder in year_folders:
 
             # Verify file name
 
-            file_result = re.match(filename_regex, f.name)
+            file_result = ISSUE_FILENAME_PATTERN.match(f.name)
 
             if file_result is None:
                 print(f"\tFound bad file name: {f.name}")
