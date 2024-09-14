@@ -8,6 +8,8 @@ from typing import Dict, Optional, Tuple
 import jinja2
 import mistune
 
+import srawn_utils
+
 FONTS: Dict[int, Tuple[str, int, Optional[int]]] = {
     0: ("Open Sans", 20, 25),  # Paragraph
     1: ("Open Sans", 35, None),
@@ -62,24 +64,15 @@ if __name__ == "__main__":
     if not md_path.is_file():
         exit(f"{md_path} is not a file")
 
-    filename_match = re.match("^(20\d{2}-\d{2}-\d{2})-srawn-(\d{2})$", md_path.stem)
-    if not filename_match:
-        exit(f"{md_path.stem} does not match format. Run the linter.")
-    date, issue = filename_match.groups()
-
-    folder_match = re.match("^(SR20\d{2})$", md_path.parent.name)
-    if not folder_match:
-        exit(f"{md_path.parent.name} does not match format. Run the linter.")
-    sryear, = folder_match.groups()
-
+    with srawn_utils.exit_on_invalid():
+        parsed_issue_path = srawn_utils.parse_path(md_path)
 
     with md_path.open("r") as fh:
         raw_markdown = fh.read()
 
     # Remove title from old issues. This prevents duplicate titles in the archive
     # without changing the original files.
-    raw_markdown = re.sub("^# SR\(A\)WN \d{4} [—-]+ \d+$", "", raw_markdown, flags=re.MULTILINE)
-
+    raw_markdown = re.sub(r"^# SR\(A\)WN \d{4} [—-]+ \d+$", "", raw_markdown, flags=re.MULTILINE)
 
     md = mistune.create_markdown(renderer=MJMLRenderer())
     content = md(raw_markdown)
@@ -90,9 +83,9 @@ if __name__ == "__main__":
     template = templateEnv.get_template("newsletter.mjml.j2")
 
     output = template.render(
-        date=date,
-        sryear=sryear,
-        issue=issue,
+        date=parsed_issue_path.date_text,
+        sryear=parsed_issue_path.sryear,
+        issue=parsed_issue_path.issue_number,
         content=content,
     )
     print(output)
