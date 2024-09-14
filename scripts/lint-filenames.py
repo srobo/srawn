@@ -2,7 +2,7 @@
 
 #
 # Copyright (c) 2019-20 Dan Trickey.
-# 
+#
 # Permission is hereby granted, free of charge, to any person obtaining
 # a copy of this software and associated documentation files (the
 # "Software"), to deal in the Software without restriction, including
@@ -10,10 +10,10 @@
 # distribute, sublicense, and/or sell copies of the Software, and to
 # permit persons to whom the Software is furnished to do so, subject to
 # the following conditions:
-# 
+#
 # The above copyright notice and this permission notice shall be
 # included in all copies or substantial portions of the Software.
-# 
+#
 # THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
 # EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
 # MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
@@ -23,8 +23,8 @@
 # WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 #
 
-from pathlib import Path
 import re
+from pathlib import Path
 
 status = True
 
@@ -44,21 +44,21 @@ for folder in year_folders:
         print(f"Found valid folder name: {folder.name}")
 
         for f in folder.iterdir():
-           # Test if there are any nested folders
+            # Test if there are any nested folders
 
-           if f.is_dir():
-               print(f"\tFound nested directory: {folder.stem}/{f.stem}")
-               status = False
-       
-           # Verify file name
-       
-           file_result =  re.match(filename_regex, f.name)
+            if f.is_dir():
+                print(f"\tFound nested directory: {folder.stem}/{f.stem}")
+                status = False
 
-           if file_result is None:
-               print(f"\tFound bad file name: {f.name}")
-               status = False
-           else:
-               print(f"\tFound valid file name: {f.name}")
+            # Verify file name
+
+            file_result = re.match(filename_regex, f.name)
+
+            if file_result is None:
+                print(f"\tFound bad file name: {f.name}")
+                status = False
+            else:
+                print(f"\tFound valid file name: {f.name}")
 
 if status:
     print("All tests passed.")
