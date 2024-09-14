@@ -33,7 +33,7 @@ jobs:
         run: bash ./scripts/render-all.sh
 
       - name: Upload output for deployment
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v3
         with:
           path: out/html
 
@@ -89,7 +89,7 @@ jobs:
         run: bash ./scripts/render-all.sh
 
       - name: Upload baseline
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v3
         with:
           name: build-from-main
           path: out/html
@@ -103,7 +103,7 @@ jobs:
       pull-requests: write
     steps:
       - name: Download artifact from this branch's build
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4
         with:
           name: github-pages
 
@@ -116,7 +116,7 @@ jobs:
           mv artifact.tar local.tar
 
       - name: Download artifact from main branch build
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4
         with:
           name: build-from-main
 
