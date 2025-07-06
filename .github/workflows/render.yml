@@ -29,6 +29,9 @@ jobs:
       - name: Install
         run: yarn install
 
+      - name: Setup Pages
+        uses: actions/configure-pages@v3
+
       - name: Build newsletters
         run: bash ./scripts/render-all.sh
 
@@ -195,12 +198,6 @@ jobs:
       # Tell GitHub where we deployed to
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: Checkout sources
-        uses: actions/checkout@v4
-
-      - name: Setup Pages
-        uses: actions/configure-pages@v3
-
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v4
