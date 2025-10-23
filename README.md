@@ -33,5 +33,5 @@ Lint filenames: `./scripts/lint-filenames.py`
 4. Copy the contents of the page.
 5. Open SR gmail. Copy and paste the formatted contents into a new email.
 6. Set the subject line of the email to "SRAWN SRYYYY Issue NN", substituting the programme year and issue number.
-7. Set the To: field to srawn@googlegroups.org
+7. Set the To: field to srawn@googlegroups.com
 8. Send.
