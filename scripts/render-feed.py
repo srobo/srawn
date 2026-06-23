@@ -7,6 +7,7 @@ import re
 from feedgenerator import DefaultFeed
 import mistune
 
+import srawn_utils
 
 working_dir = Path('.')
 feed = DefaultFeed(
@@ -18,26 +19,17 @@ feed = DefaultFeed(
 md = mistune.create_markdown()
 
 
-for md_path in sorted(working_dir.glob("SR20*/*.md")):
-    filename_match = re.match("^(20\d{2}-\d{2}-\d{2})-srawn-(\d{2})$", md_path.stem)
-    if not filename_match:
-        exit(f"{md_path.stem} does not match format. Run the linter.")
-    date, issue = filename_match.groups()
-
-    folder_match = re.match("^(SR20\d{2})$", md_path.parent.name)
-    if not folder_match:
-        exit(f"{md_path.parent.name} does not match format. Run the linter.")
-    sryear, = folder_match.groups()
-
+for issue in srawn_utils.get_all_issues(working_dir):
+    md_path = issue.path
     link = f"https://studentrobotics.org/srawn/{md_path.parent.stem}/{md_path.stem}.html"
     content = md(md_path.read_text())
 
     feed.add_item(
-        title=f"{sryear} Issue {issue}",
+        title=issue.title,
         link=link,
         description=content,
         unique_id=link,
-        pubdate=datetime.date.fromisoformat(date),
+        pubdate=issue.date,
         content=content
     )
 
