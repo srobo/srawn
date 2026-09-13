@@ -23,4 +23,4 @@ do
 done
 
 ./venv/bin/python3 ./scripts/render-indices.py
-./venv/bin/python3 ./scripts/render-feed.py
+./venv/bin/python3 ./scripts/render-feeds.py
